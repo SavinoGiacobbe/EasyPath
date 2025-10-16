@@ -7,7 +7,7 @@ name=EasyPath
 qgisMinimumVersion=3.0
 description=Urban Accessibility Analysis for QGIS
 version=0.1
-author=Unicampania
+author=Valente R, Mozingo LA, Giacobbe S, Maienza MB, Bosco R
 email=savino.giacobbe@unicampania.it
 
 about=GIS-based digital decision support protocol for local authorities for technological and environmental solutions on the accessibility of urban facilities in Mediterranean areas
