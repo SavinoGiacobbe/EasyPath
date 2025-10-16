@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/EasyPath" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
