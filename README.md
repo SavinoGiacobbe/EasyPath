@@ -27,26 +27,25 @@ Click the EasyPath icon to open the main dialog and start your analysis.
 ---
 
 ## Requirements
-- QGIS ≥ 3.22
+- QGIS ≥ 3.0
 - No additional Python libraries required (uses built-in PyQGIS and PyQt)
 
 ---
 
 ## Source Code & Support
-- **Repository:** [https://github.com/Unicampania/EasyPath](https://github.com/Unicampania/EasyPath)  
-- **Issue Tracker:** [https://github.com/Unicampania/EasyPath/issues](https://github.com/Unicampania/EasyPath/issues)  
+- **Repository:** [https://github.com/Unicampania/EasyPath]
+- **Issue Tracker:** [https://github.com/Unicampania/EasyPath/issues]
 
 ---
 
 ## Authors
-Supervisor **Professor Renata Valente and Louise Anna Mozingo**
-Concept by **Valente, Mozingo, Giacobbe, Bosco, Maienza**
-Algorithm logic and data analysis by **Savino Giacobbe**
-Developed by **Mihaela Bianca Maienza**
-
+Supervisor **Renata Valente and Louise Anna Mozingo**
+Concept **Valente, Mozingo, Giacobbe, Bosco, Maienza**
+Algorithm and data analysis **Savino Giacobbe**
+Developer **Mihaela Bianca Maienza**  
 Contact: savino.giacobbe@unicampania.it
 
 ---
 
 ## License
-This plugin is released under the [GNU General Public License v2 or later (GPLv2+)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
+This plugin is released under the [GNU General Public License v2 or later (GPLv2+)]
