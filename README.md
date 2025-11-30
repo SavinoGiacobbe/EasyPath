@@ -33,8 +33,8 @@ Click the EasyPath icon to open the main dialog and start your analysis.
 ---
 
 ## Source Code & Support
-- **Repository:** [https://github.com/Unicampania/EasyPath]
-- **Issue Tracker:** [https://github.com/Unicampania/EasyPath/issues]
+- **Repository:** [https://github.com/SavinoGiacobbe/EasyPath]
+- **Issue Tracker:** [https://github.com/SavinoGiacobbe/EasyPath/issues]
 
 ---
 
@@ -49,3 +49,4 @@ Contact: savino.giacobbe@unicampania.it
 
 ## License
 This plugin is released under the [GNU General Public License v2 or later (GPLv2+)]
+
